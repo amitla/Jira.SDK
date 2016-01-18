@@ -60,7 +60,6 @@ namespace Jira.SDK.Tools
                     var result = stringWriter.ToString();
 
                     return result;
-
                 }
             }
         }
